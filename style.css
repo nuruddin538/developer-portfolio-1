@@ -6,7 +6,7 @@
   font-family: 'Work Sans', sans-serif;
 }
 .btn {
-  padding: 15px 40px;
+  padding: 15px 30px;
   color: #005fac;
   font-size: 20px;
   font-weight: bold;
@@ -114,8 +114,11 @@
 .banner h2 {
   color: #fff;
   margin-bottom: 10px;
+  font-size: 26px;
 }
-.btn-call {
+
+.banner {
+  padding: 50px 0px 50px 50px;
 }
 /* Foote section styles */
 .footer-section {
@@ -173,7 +176,11 @@ form input {
   padding: 15px;
   border-radius: 5px;
 }
-form butto.footer-btn {
+form button {
   background: #005fac;
   border-radius: 5px;
+  color: #fff;
+  padding: 15px 40px;
+  border: none;
+  font-size: 16px;
 }
